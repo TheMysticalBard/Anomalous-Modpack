@@ -117,6 +117,10 @@
 		[types.stone_type.forbidden_arcanus]
 			darkstone = true
 
+		[types.stone_type.arts_and_crafts]
+			gypsum = true
+			soapstone = true
+
 	[types.mud_type]
 
 		[types.mud_type.deeperdarker]
@@ -279,6 +283,12 @@
 
 		[types.wood_type.ender_remastered]
 			deep = true
+
+		[types.wood_type.habitat]
+			fairy_ring_mushroom = true
+
+		[types.wood_type.arts_and_crafts]
+			cork = true
 
 	[types.leaves_type]
 
@@ -465,6 +475,9 @@
 		[types.leaves_type.forbidden_arcanus]
 			aurum = true
 			nuggety_aurum = true
+
+		[types.leaves_type.arts_and_crafts]
+			cork = true
 
 #Disables specific entries
 [entries]

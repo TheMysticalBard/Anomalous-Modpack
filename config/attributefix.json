@@ -132,6 +132,17 @@
         "value": 2048
       }
     },
+    "stardew_fishing:line_strength": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
+      }
+    },
     "minecraft:generic.luck": {
       "enabled": true,
       "min": {
@@ -148,6 +159,17 @@
       "min": {
         "default": 0,
         "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
+      }
+    },
+    "stardew_fishing:exp_multiplier": {
+      "enabled": false,
+      "min": {
+        "default": 1,
+        "value": 1
       },
       "max": {
         "default": 100,
@@ -218,6 +240,17 @@
       "max": {
         "default": 100,
         "value": 100
+      }
+    },
+    "stardew_fishing:bar_size": {
+      "enabled": false,
+      "min": {
+        "default": 4,
+        "value": 4
+      },
+      "max": {
+        "default": 142,
+        "value": 142
       }
     },
     "caverns_and_chasms:lifesteal": {
@@ -537,6 +570,17 @@
       "max": {
         "default": 1024,
         "value": 1000000
+      }
+    },
+    "stardew_fishing:treasure_chance_bonus": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1,
+        "value": 1
       }
     },
     "minecraft:horse.jump_strength": {
