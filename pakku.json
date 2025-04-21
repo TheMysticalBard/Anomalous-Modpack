@@ -1,0 +1,7 @@
+{
+    "name": "Anomalous",
+    "version": "0.0.1",
+    "overrides": [
+        "config"
+    ]
+}

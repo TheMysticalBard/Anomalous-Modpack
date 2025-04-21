@@ -1,0 +1,8 @@
+<ruleset version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://codeberg.org/PORTB/BiggerStacksConfigLib/raw/branch/master/extra/schema.xsd">
+	<rule stacksize="1">
+    	<condition>is_bucket</condition>
+	</rule>
+	<rule stacksize="999">
+		<condition>stacksize gt 1</condition>
+	</rule>
+</ruleset>
